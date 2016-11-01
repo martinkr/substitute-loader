@@ -1,0 +1,29 @@
+{
+  "name": "substitute-loader",
+  "version": "1.0.0",
+  "description": "A loader for webpack which substitutes the content of a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martinkr/substitute-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "file",
+    "replace",
+    "content",
+    "substitute",
+    "mock",
+    "stub"
+  ],
+  "author": "Martin Krause <npm@mkrause.info> (http://martinkr.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinkr/substitute-loader/issues"
+  },
+  "homepage": "https://github.com/martinkr/substitute-loader"
+}
